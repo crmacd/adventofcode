@@ -1,8 +1,8 @@
 # Advent Of Code
 ## Challenges
 
-* Repo for www.adventofcode.com
+* Results May Vary
 
 ## Note
-
+* Repo for www.adventofcode.com
 * Many solutions are not the best programming practices these were written for function not form/function.
